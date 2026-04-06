@@ -1,7 +1,9 @@
 ## Hello there!
-  Software Engineer with +2,5 years. Love Tech, movies, shows, sports and a lot more things...
+  I like software and I like engineering(I'm about 3+ years in tech)
+  
+  This is my lab where you'll find my projects, tests and experiments!
 
-  This is my lab, home of my ongoing solo projects and I hope you like it! Feel free to hit my email: [keventavares.kdgt@gmail.com](mailto:keventavares.kdgt@gmail.com) or send me a dm in my [linkedin profile](https://www.linkedin.com/in/keven-tavares).
+  I hope you like it! Feel free to hit my email: [keventavares.kdgt@gmail.com](mailto:keventavares.kdgt@gmail.com) or send me a dm in my [linkedin profile](https://www.linkedin.com/in/keven-tavares).
 
 <!--
 **darkie-dk/darkie-dk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
