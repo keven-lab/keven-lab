@@ -1,5 +1,5 @@
 ## Hello there!
-  I like software and I like engineering(I'm about 3+ years in tech)
+  I like software and I like engineering(I'm about 4+ years in tech)
   
   This is my lab where you'll find my projects, tests and experiments!
 
